@@ -1,2 +1,2 @@
 # moodlepartner-svhs
-# block plugin for admin report for course completion
+# block plugin for course completion report view by admin dashboard
