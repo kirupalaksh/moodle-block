@@ -46,5 +46,5 @@ This plugin is developed and tested on Moodle adaptable theme. It also work with
 Future proposal
 -----------------
 
-Due to limited time and resource, we have built for our own local needs and published in community. We are aware to enhance this block into more extensible report with graphs in future. If you are having any inputs let us share in https://github.com/kirupalaksh/moodlepartner-svhs/issues
+Due to limited time and resource, we have built for our own local needs and published in community. We are aware to enhance this block into more extensible report with graphs in future. If you are having any inputs let us share in https://github.com/kirupalaksh/moodle-block/issues
 
