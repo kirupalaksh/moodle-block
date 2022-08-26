@@ -11,7 +11,7 @@ This plugin requires Moodle 4.0+
 Description of this plugin
 --------------------------
 
-The block_coursecompletion plugin displays a list of the course's enrolled students graded with course completion or certification. Total no of participlants and course completed in a particular dates. 
+The block_coursecompletion plugin displays a list of the course's enrolled students graded with course completed or certificated. Reports shown Total no of participants in a course and completed counts for particular dates. 
 
 Installation
 ------------
